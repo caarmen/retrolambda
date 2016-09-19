@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>net.orfjackal.retrolambda</groupId>
+    <groupId>ca.rmen.retrolambda</groupId>
     <artifactId>parent</artifactId>
     <version>2.3.1-caarmen</version>
     <packaging>pom</packaging>
